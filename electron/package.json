@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@tensorflow/tfjs-core": "^0.8.0",
-    "electron": "^3.0.4",
+    "electron": "^15.5.5",
     "tone-piano": "0.0.12"
   }
 }
